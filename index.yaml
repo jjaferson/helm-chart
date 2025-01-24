@@ -26,16 +26,16 @@ entries:
     urls:
     - https://jjaferson.github.io/helm-chart/account-template-0.1.0.tgz
     version: 0.1.0
-  deploy-template:
+  app-template:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-07-28T19:37:08.383156+01:00"
     description: A Helm chart for Kubernetes
     digest: a5cec911455ab05e90a8af8da19ea4d6a162ae50072718b484a793d7c42ac7e3
-    name: deploy-template
+    name: app-template
     type: application
     urls:
-    - https://jjaferson.github.io/helm-chart/deploy-template-0.1.0.tgz
+    - https://jjaferson.github.io/helm-chart/app-template-0.1.0.tgz
     version: 0.1.0
   gateway:
   - apiVersion: v2
