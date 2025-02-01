@@ -71,4 +71,21 @@ entries:
     urls:
     - https://jjaferson.github.io/helm-chart/istiod-1.0.0.tgz
     version: 1.0.0
+  istio-ingress:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-07-28T19:37:08.384885+01:00"
+    description: Helm chart for deploying Istio Ingress
+    digest: a1280a6118a31d40788d365e19dcf36c74fd4f33b6f50cc52ce3d6850e8dce6f
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    - ingress
+    name: istio-ingress
+    sources:
+    - https://github.com/istio/istio
+    type: application
+    urls:
+    - https://jjaferson.github.io/helm-chart/istio-ingress-1.0.0.tgz
+    version: 1.0.0
 generated: "2023-07-28T19:37:08.379601+01:00"
